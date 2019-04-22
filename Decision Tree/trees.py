@@ -3,9 +3,7 @@
 # date: 4/20/2019
 
 from math import log
-
 import operator
-import matplotlib.pyplot as plt
 
 
 # create demo dataset
